@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/joshua-sigston/cook-it/static/css/main.65466e45.css",
-    "main.js": "/joshua-sigston/cook-it/static/js/main.10cb2f1d.js",
+    "main.js": "/joshua-sigston/cook-it/static/js/main.20c8a39c.js",
     "index.html": "/joshua-sigston/cook-it/index.html",
     "main.65466e45.css.map": "/joshua-sigston/cook-it/static/css/main.65466e45.css.map",
-    "main.10cb2f1d.js.map": "/joshua-sigston/cook-it/static/js/main.10cb2f1d.js.map"
+    "main.20c8a39c.js.map": "/joshua-sigston/cook-it/static/js/main.20c8a39c.js.map"
   },
   "entrypoints": [
     "static/css/main.65466e45.css",
-    "static/js/main.10cb2f1d.js"
+    "static/js/main.20c8a39c.js"
   ]
 }
