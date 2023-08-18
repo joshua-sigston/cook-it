@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/joshua-sigston/cook-it/static/css/main.65466e45.css",
+    "main.js": "/joshua-sigston/cook-it/static/js/main.10cb2f1d.js",
+    "index.html": "/joshua-sigston/cook-it/index.html",
+    "main.65466e45.css.map": "/joshua-sigston/cook-it/static/css/main.65466e45.css.map",
+    "main.10cb2f1d.js.map": "/joshua-sigston/cook-it/static/js/main.10cb2f1d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65466e45.css",
+    "static/js/main.10cb2f1d.js"
+  ]
+}
